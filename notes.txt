@@ -2,3 +2,4 @@ My first git project
 Learning Git is fun
 Github is now connected
 Practing commits and pushes
+This was added in the feature branch
